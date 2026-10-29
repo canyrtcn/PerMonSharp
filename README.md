@@ -10,7 +10,7 @@
 PerMonSharp is a native, ultra-lightweight Windows desktop utility that lets you fine-tune the perceived sharpness of each connected monitor independently in real time—without relying on coarse built-in monitor OSD menus, DDC/CI support, or GPU driver panels.
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="PerMonSharp Application Window" width="464" />
+  <img src="assets/screenshot.png" alt="PerMonSharp Application Window" width="448" />
 </p>
 
 ---
