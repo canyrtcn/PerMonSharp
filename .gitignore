@@ -1,0 +1,21 @@
+# Build & output directories
+build/
+dist/
+out/
+.vs/
+.vscode/
+CMakeSettings.json
+CMakeUserPresets.json
+
+# Compiled binaries & debug symbols (dist/ may be generated locally via build.ps1)
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.exe
+
+# Local portable user settings
+settings.json
+settings.json.tmp
+portable.txt
