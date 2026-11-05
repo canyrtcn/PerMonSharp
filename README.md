@@ -43,7 +43,7 @@ PerMonSharp is a native, ultra-lightweight Windows desktop utility that lets you
 
 ## Getting Started
 
-1. Download `PerMonSharp.exe` and run it directly—no installation needed.
+1. Download [`PerMonSharp.exe`](https://github.com/canyrtcn/PerMonSharp/releases/latest) and run it directly—no installation needed.
 2. Select a monitor at the top of the window (use **Identify** to display monitor numbers on screen).
 3. Turn on **Enable sharpening on this display** and adjust **Sharpness** to taste (`25%`–`45%` for subtle everyday text clarity, `50%`–`100%` for stronger definition on softer panels or media).
 4. Close the window to keep PerMonSharp running quietly in the system tray.
