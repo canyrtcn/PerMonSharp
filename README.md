@@ -1,19 +1,27 @@
-# PerMonSharp
+<p align="center">
+  <img src="resources/PerMonSharp.ico" width="88" height="88" alt="PerMonSharp Logo" />
+</p>
 
-**Lightweight Per-Monitor Sharpness Control for Windows**
-
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D4?style=flat-square)](#requirements)
-[![Architecture](https://img.shields.io/badge/arch-x64-444444?style=flat-square)](#requirements)
-[![Binary](https://img.shields.io/badge/portable-single%20exe%20(~411%20KB)-2EA043?style=flat-square)](#getting-started)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
-
-PerMonSharp is a native, ultra-lightweight Windows desktop utility that lets you fine-tune the perceived sharpness of each connected monitor independently in real time—without relying on coarse built-in monitor OSD menus, DDC/CI support, or GPU driver panels.
+<h1 align="center">PerMonSharp</h1>
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="PerMonSharp Application Window" width="448" />
+  <strong>Lightweight Per-Monitor Sharpness Control for Windows</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows 10 / 11" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Architecture-x64-2A2A30?style=flat-square" alt="x64" />
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-E5703E?style=flat-square" alt="MIT License" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/screenshot.png" width="448" alt="PerMonSharp Application Window" />
 </p>
 
 ---
+
+PerMonSharp is a native, ultra-lightweight Windows desktop utility that lets you fine-tune the perceived sharpness of each connected monitor independently in real time—without relying on coarse built-in monitor OSD menus, DDC/CI support, or GPU driver panels.
 
 ## Features
 
